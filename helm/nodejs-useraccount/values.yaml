@@ -1,6 +1,6 @@
 deployment:
   name: webapp-deployment
-  replicaCount: 3
+  replicaCount: 1
 
 image:
   repository: artisantek/useraccount:1
